@@ -1,12 +1,14 @@
 Echo Server in Dart programming language
 ========================================
 
-This program is outcome of SSS(G) Dart Hackathon at April 28, 2012.
+This program is outcome of SSS(G) Dart Hackathon at April 28, 2012 ([detail](http://www.sssg.org/public/index.php?meeting%2F20120428)).
 
 Description
 -----------
 
 The server returns list of posted messages from/to Web browser.
+
+Developers: Amano, Koyama, Matsuyama, Miyazawa, Naganuma
 
 
 Requirements
